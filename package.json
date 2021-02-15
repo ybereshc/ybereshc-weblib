@@ -1,0 +1,22 @@
+{
+  "name": "ybereshc-weblib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "front-end",
+    "web",
+    "javascript",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ybereshc/ybereshc-weblib.git"
+  },
+  "author": "ybereshc",
+  "license": ""
+}
