@@ -13,10 +13,11 @@
     "javascript",
     "js"
   ],
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ybereshc/ybereshc-weblib.git"
   },
   "author": "ybereshc",
-  "license": ""
+  "license": "ISC"
 }
